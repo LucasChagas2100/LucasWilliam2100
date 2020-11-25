@@ -1,11 +1,11 @@
 ![Fundo Github](https://user-images.githubusercontent.com/74076487/100262865-81a36380-2f2b-11eb-9179-b24ba091c364.png)
-  
+![](https://komarev.com/ghpvc/?username=LucasWilliam2100&color=blue&style=flat)   
 <center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWilliam2100&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=LucasWilliam2100&theme=buefy"/></td>
-        <td><img width="450px" align="left" src="(https://komarev.com/ghpvc/?username=LucasWilliam2100&color=blue&style=flat)/> 
+        
     </tr>   
 </table>
 </center>  
